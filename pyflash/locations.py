@@ -1,2 +1,2 @@
 class LOCATION(obj):
-  GAMES = ""
+    GAMES = ""
