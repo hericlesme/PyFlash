@@ -1,0 +1,2 @@
+class LOCATION(obj):
+  GAMES = ""
