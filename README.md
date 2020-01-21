@@ -5,5 +5,5 @@ Just a python lib for flash lovers. Flash games will always be in our hearts :he
 ## How to use
 
 ```
-Coming Soon
+python3 -m pyflash
 ``` 
